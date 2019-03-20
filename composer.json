@@ -9,7 +9,8 @@
     "symfony/finder": "^3.4 || ^4.0",
     "symfony/yaml": "^3.4 || ^4.0",
     "webflo/drupal-finder": "^1.1",
-    "webmozart/path-util": "^2.3"
+    "webmozart/path-util": "^2.3",
+    "ext-json": "*"
   },
   "require-dev": {
     "alchemy/zippy": "^0.4.8",
